@@ -53,3 +53,15 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+examples/*/build
+examples/*/sdkconfig
+examples/*/sdkconfig.ci
+
+projects/*/build
+projects/*/sdkconfig
+projects/*/sdkconfig.ci
+
+#**/build
+#**/sdkconfig
+#**/sdkconfig.ci
